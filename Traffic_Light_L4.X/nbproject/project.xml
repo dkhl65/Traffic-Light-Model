@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>Traffic_Light_L4</name>
+            <creation-uuid>01b22031-1f90-4f06-adaa-2ac203937aff</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+        </data>
+    </configuration>
+</project>
